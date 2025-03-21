@@ -1,0 +1,23 @@
+[
+    {
+        "title": "My Ono",
+        "imageSrc": "HUB_my_ono.png",
+        "description": "The goal of this project is to recreate the uno game using python and play it online with friends.",
+        "skills": ["Python", "Pygame", "Socket Programming"],
+        "url": "https://github.com/aurelienjoncour/HUB_my_ono"
+    },
+    {
+        "title": "Elementary cellular automata",
+        "imageSrc": "Elementary-cellular-automata.png",
+        "description": "Basic one dimension game of life in Java, it will print the evolution of this simulation in the console.",
+        "skills": ["Java"],
+        "url": "https://github.com/Noblerie/Elementary-cellular-automata"
+    },
+    {
+        "title": "NASA pictures background",
+        "imageSrc": "NASA_pictures_background.png",
+        "description": "This project in python get the NASA image of the day to gnome wallpaper and save it in a folder.",
+        "skills": ["Python", "Bash", "API"],
+        "url": "https://github.com/Noblerie/NASA_pictures_background"
+    }
+]
