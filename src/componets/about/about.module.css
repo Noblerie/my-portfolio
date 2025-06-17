@@ -49,6 +49,12 @@
 
 }
 
+.titleContainer {
+    display: flex;
+    align-items: center;
+    gap: 4px; 
+}
+
 .item:hover {
     background-size: 100% 100%;
 }
@@ -94,4 +100,17 @@
     .icon {
         margin: 20px;
     }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .item {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 15px;
+  }
+
+  .description {
+    text-align:center
+  }
 }
